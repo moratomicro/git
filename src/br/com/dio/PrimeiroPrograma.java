@@ -8,7 +8,7 @@ public class PrimeiroPrograma {
         int b = 3;
         System.out.println("Hello World! " + (a+b));*/
 
-        Gato gato = new Gato("Tom", "Marron", 500);
+        Gato gato = new Gato("Tom", "Amarelo", 500);
         System.out.println(gato);
 
         Livro livro = new Livro("O problema dos 3 corpos", 300);
